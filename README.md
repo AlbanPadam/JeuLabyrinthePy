@@ -10,6 +10,6 @@ Le jeu nécessite l'installation de [pygame](https://www.pygame.org/wiki/Getting
 Avec Anaconda:
 - Lancer Anaconda Prompt
 - Ecrire 'pip install pygame' dans la console
-- Se déplacer dans la console à l'emplacement du fichier JeuLabyrinthePy
+- Se déplacer dans la console à l'emplacement du fichier téléchargé
 - Ecrire 'python projet.py'
 
