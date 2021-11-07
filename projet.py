@@ -485,7 +485,7 @@ if __name__ == '__main__':
 
     #Méthode d'affichage de la petite histoire
     def Story():
-        story = open("story/story.txt")
+        story = open("story/story.txt", encoding="ISO-8859-1")
         
         for line in story:
             Story = True
